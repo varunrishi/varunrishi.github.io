@@ -10,7 +10,7 @@ permalink: /resume/
 
 Advisor: [Dr. Thomas Miller](https://scholar.google.co.in/citations?hl=en&user=G1afscUAAAAJ), 
 
-Department of Chemistry, 
+Department of Chemistry & Chemical Engineering, 
 
 California institute of Technology (Caltech), CA, USA 
 
