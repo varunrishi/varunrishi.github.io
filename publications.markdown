@@ -55,6 +55,6 @@ Varun Rishi, Ajith Perera and Rodney J. Bartlett, “Transition metal atomic mul
 [Theor. Chem. Acc. 133, 1515 (2014)](https://link.springer.com/chapter/10.1007/978-3-662-47051-0_18)
 
 
-A complete list of publication can be found on [Google Scholar](https://scholar.google.com/citations?user=nGopRpIAAAAJ&hl=en)
+A complete list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=nGopRpIAAAAJ&hl=en)
 
 
