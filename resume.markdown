@@ -12,7 +12,7 @@ Advisor: [Dr. Thomas Miller](https://scholar.google.co.in/citations?hl=en&user=G
 
 Department of Chemistry & Chemical Engineering, 
 
-California institute of Technology (Caltech), CA, USA 
+California Institute of Technology (Caltech), CA, USA 
 
 
 # Postdoctoral Research Associate                                                                        (2017 – 2019)
