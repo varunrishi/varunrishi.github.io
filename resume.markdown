@@ -8,20 +8,20 @@ permalink: /resume/
 
 # Postdoctoral Research Associate                                                                        (2019 – present) 
 
-Advisor: [Dr. Thomas Miller](https://scholar.google.co.in/citations?hl=en&user=G1afscUAAAAJ), 
+Advisor: [Dr. Tom Miller](https://scholar.google.co.in/citations?hl=en&user=G1afscUAAAAJ), 
 
 Department of Chemistry & Chemical Engineering, 
 
-California Institute of Technology (Caltech), CA, USA 
+California Institute of Technology (Caltech), USA 
 
 
 # Postdoctoral Research Associate                                                                        (2017 – 2019)
 
-Advisor: [Dr. Edward F. Valeev](https://scholar.google.co.in/citations?hl=en&user=4QxcieMAAAAJ), 
+Advisor: [Dr. Ed Valeev](https://scholar.google.co.in/citations?hl=en&user=4QxcieMAAAAJ), 
 
 Department of Chemistry, 
 
-Virginia Tech, VA, USA 
+Virginia Tech, USA 
 
 ## Education
 
@@ -29,7 +29,7 @@ Virginia Tech, VA, USA
 
 Thesis: “In weak and in strong correlation: the search for a coupled cluster method that works in all scenarios”.
 
-Advisor: [Dr. Rodney J. Bartlett](https://scholar.google.co.in/citations?user=9S6EDagAAAAJ&hl=en), 
+Advisor: [Dr. Rod Bartlett](https://scholar.google.co.in/citations?user=9S6EDagAAAAJ&hl=en), 
 
 Quantum Theory Project, 
 
