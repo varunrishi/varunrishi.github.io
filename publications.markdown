@@ -9,6 +9,7 @@ permalink: /publications/
 Justus Calvin, Chong Peng, Varun Rishi, Ashutosh Kumar and Edward F. Valeev, “Many-Body Quantum Chemistry on Massively Parallel Computers”. 
 [Chem. Rev. (2020)](https://doi.org/10.1021/acs.chemrev.0c00006)
 
+![image](/images/errorSpread.pdf){: style="float: center" width=50% height =30%}
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “A route to improving RPA excitation energies through its connection to equation-of-motion coupled cluster theory”.
 [J. Chem. Phys. 153, 234101 (2020)](https://aip.scitation.org/doi/10.1063/5.0023862) 
 
