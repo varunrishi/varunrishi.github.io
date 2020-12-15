@@ -10,7 +10,7 @@ Justus Calvin, Chong Peng, Varun Rishi, Ashutosh Kumar and Edward F. Valeev, “
 [Chem. Rev. (2020)](https://doi.org/10.1021/acs.chemrev.0c00006)
 
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “A route to improving RPA excitation energies through its connection to equation-of-motion coupled cluster theory”.
-[(Accepted in J. Chem. Phys.)]( https://arxiv.org/abs/2008.00336) 
+[J. Chem. Phys. 153, 234101 (2020)](https://aip.scitation.org/doi/10.1063/5.0023862) 
 
 ![image](/images/MPQC.jpeg){: style="float: center" width=50% height =30%}
 Chong Peng, Cannada A. Lewis, Xiao Wang, Marjory C. Clement, Karl Pierce, Varun Rishi,
