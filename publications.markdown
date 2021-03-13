@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
-#### Submitted
+#### 2021
 
-Karl Pierce, Varun Rishi and Edward F.Valeev, "Robust approximation of tensor networks: application to grid-free tensor factorization of the Coulomb interaction" [(Submitted to Journal of Chemical Theory and Computation)](https://arxiv.org/abs/2012.13002)
+Karl Pierce, Varun Rishi and Edward F.Valeev, "Robust approximation of tensor networks: application to grid-free tensor factorization of the Coulomb interaction" [(Accepted, J. Chem. Theory Comput.)](https://arxiv.org/abs/2012.13002)
 
 #### 2020
 
