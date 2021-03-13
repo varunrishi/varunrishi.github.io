@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Work Experience
 
-# Postdoctoral Research Associate                                                                        (2019 – present) 
+# Postdoctoral Research Associate                                                                        (2019 – 2020) 
 
 Advisor: [Dr. Tom Miller](https://scholar.google.co.in/citations?hl=en&user=G1afscUAAAAJ), 
 
