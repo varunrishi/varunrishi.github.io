@@ -8,13 +8,13 @@ permalink: /publications/
 
 ![image](/images/CP_DF_CCSD.gif){: style="float: center" width="100%" height="30%"}
 Karl Pierce, Varun Rishi and Edward F.Valeev, "Robust approximation of tensor networks: application to grid-free tensor factorization of the Coulomb interaction".
-[J. Chem. Theory Comput.(2021)](https://doi.org/10.1021/acs.jctc.0c01310)
+[J. Chem. Theory Comput. 17, 4, 2217 (2021)](https://doi.org/10.1021/acs.jctc.0c01310)
 
 #### 2020
 
 ![image](/images/Water4_per_node.pdf){: style="float: center" width="100%" height="30%"}
 Justus Calvin, Chong Peng, Varun Rishi, Ashutosh Kumar and Edward F. Valeev, “Many-Body Quantum Chemistry on Massively Parallel Computers”. 
-[Chem. Rev. (2020)](https://doi.org/10.1021/acs.chemrev.0c00006)
+[Chem. Rev. 121, 3, 1203 (2021)](https://doi.org/10.1021/acs.chemrev.0c00006)
 
 ![image](/images/errorSpread.pdf){: style="float: center" width="100%" height="30%"}
 
