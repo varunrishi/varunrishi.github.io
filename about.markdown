@@ -7,7 +7,7 @@ permalink: /about/
 ![image](/images/ProfilePic.png){: style="float: center"}
 
 
-I am a postdoctoral researcher at California Institute of Technology (Caltech) working in the area of theoretical and computational chemistry. 
+I am a postdoctoral researcher working in the area of theoretical and computational chemistry. 
 
 ## Research Themes: 
 
