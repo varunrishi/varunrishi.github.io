@@ -6,6 +6,16 @@ permalink: /resume/
 
 ## Work Experience
 
+# Postdoctoral Research Associate                                                                        (2022 - ) 
+
+Advisor: [Dr. Laura McCaslin](https://scholar.google.co.in/citations?user=7wNNr_oAAAAJ&hl=en), 
+
+Combustion Research Facility, 
+
+Sandia National Labs, USA 
+
+
+
 # Postdoctoral Research Associate                                                                        (2019 – 2020) 
 
 Advisor: [Dr. Tom Miller](https://scholar.google.co.in/citations?hl=en&user=G1afscUAAAAJ), 
