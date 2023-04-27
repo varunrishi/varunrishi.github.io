@@ -9,7 +9,7 @@ permalink: /publications/
 ![image](/images/DoublyExcitedStates.jpeg){: style="float: center" width="100%" height="30%"}
 Varun Rishi, Moneesha Ravi, Ajith Perera and Rodney J. Bartlett, “Dark Doubly Excited States
 with Modified Coupled Cluster Models: A Reliable Compromise between Cost and Accuracy?”. 
-[J. Phys. Chem. A, 127, 828 (2023)] (https://doi.org/10.1021/acs.jpca.2c07697)
+[J. Phys. Chem. A, 127, 828 (2023)](https://doi.org/10.1021/acs.jpca.2c07697)
 
 
 #### 2021
