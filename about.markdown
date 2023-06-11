@@ -11,7 +11,7 @@ I am a postdoctoral researcher working in the area of theoretical and computatio
 
 ## Research Themes: 
 
-![image](/images/Figure1_PastResearch.pdf){: style="float: center"}
+![image](/images/PastnFutureResearch.png){: style="float: center"}
 
 # Ab-initio methods for the strong correlation problem
 Single reference coupled cluster (CC) methods are severely challenged in the description of potential energy surfaces for the simultaneous dissociation of multiple bonds and in predicting the electronic structure of transition metal compounds and actinides. However certain physically motivated modifications to the general coupled cluster theory such as the distinguishable cluster (DC) method have been found to be successful. In my doctoral work, I proposed that a plausible explanation for success of these 'internally corrected coupled cluster methodologies' is their implicit inclusion of the effect of higher excitations. Our work has led to development of excited state approaches based on these methods which show improved estimates of excitation energies. I further proposed a general extension to include the effect of higher excitations. 
