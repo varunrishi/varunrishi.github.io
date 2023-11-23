@@ -7,11 +7,15 @@ permalink: /about/
 ![image](/images/ProfilePic.png){: style="float: center"}
 
 
-I am a postdoctoral researcher working in the area of theoretical and computational chemistry. 
+I am a postdoctoral researcher at Sandia National Labs working in the area of theoretical and computational chemistry. 
 
 ## Research Themes: 
 
 ![image](/images/PastnFutureResearch.png){: style="float: center"}
+
+
+# Tracking light-induced chemical transformations at ultrafast timescale
+Tracking chemical reactions as they happen is a big challenge for both experiment and theory. Probing at the ultrafast timescale, broadly defined to be in femtoseconds to picoseconds range, provides us with immense opportunities to understand these reactions. Furthermore, Modeling light-induced chemical reactions on an ultrafast timescale poses a rigorous test for quantum chemical methods. In our collaborative experimental-theoretical study on the ultrafast photofragmentation of dimethyl disulphide, a model for exploring protein stability under UV light, I address challenges hindering a predictive understanding of photochemical processes by developing an approach to accurately model the dynamics over energy landscape.
 
 # Ab-initio methods for the strong correlation problem
 Single reference coupled cluster (CC) methods are severely challenged in the description of potential energy surfaces for the simultaneous dissociation of multiple bonds and in predicting the electronic structure of transition metal compounds and actinides. However certain physically motivated modifications to the general coupled cluster theory such as the distinguishable cluster (DC) method have been found to be successful. In my doctoral work, I proposed that a plausible explanation for success of these 'internally corrected coupled cluster methodologies' is their implicit inclusion of the effect of higher excitations. Our work has led to development of excited state approaches based on these methods which show improved estimates of excitation energies. I further proposed a general extension to include the effect of higher excitations. 
