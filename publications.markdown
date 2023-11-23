@@ -6,6 +6,12 @@ permalink: /publications/
 
 #### 2023
 
+![image](/images/DMDS_summary.jpeg){: style="float: center" width="100%" height="30%"}
+Varun Rishi, Neil Cole-Filipiak, Krupa Ramasesha and Laura M. McCaslin, "Unveiling the UV
+photofragmentation pathways of dimethyl disul de initiated by a Rydberg excitation" 
+[ChemRxiv (2023) https://doi.org/10.26434/chemrxiv-2023-bnj1b](https://doi.org/10.26434/chemrxiv-2023-bnj1b)
+
+
 ![image](/images/DoublyExcitedStates.jpeg){: style="float: center" width="100%" height="30%"}
 Varun Rishi, Moneesha Ravi, Ajith Perera and Rodney J. Bartlett, “Dark Doubly Excited States
 with Modified Coupled Cluster Models: A Reliable Compromise between Cost and Accuracy?”. 
