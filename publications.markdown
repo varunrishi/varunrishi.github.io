@@ -28,12 +28,12 @@ Karl Pierce, Varun Rishi and Edward F.Valeev, "Robust approximation of tensor ne
 
 
 #### 9
-![image](/images/Water4_per_node.pdf){: style="float: center" width="100%" height="30%"}
+![image](/images/MassivelyParallel.gif){: style="float: center" width="100%" height="30%"}
 Justus Calvin, Chong Peng, Varun Rishi, Ashutosh Kumar and Edward F. Valeev, “Many-Body Quantum Chemistry on Massively Parallel Computers”. 
 [Chem. Rev. 121, 3, 1203 (2021)](https://doi.org/10.1021/acs.chemrev.0c00006)
 
 #### 8
-![image](/images/errorSpread.pdf){: style="float: center" width="100%" height="30%"}
+![image](/images/RPA.jpeg){: style="float: center" width="100%" height="30%"}
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “A route to improving RPA excitation energies through its connection to equation-of-motion coupled cluster theory”.
 [J. Chem. Phys. 153, 234101 (2020)](https://aip.scitation.org/doi/10.1063/5.0023862) 
 
@@ -45,17 +45,17 @@ Fabijan Pavovsevic, Samuel Slattery, Jinmei Zhang, Nakul Teke, Ashutosh Kumar, C
 
 
 #### 6
-![image](/images/DCSDT.pdf){: style="float: center" width="100%" height ="100%"}
+![image](/images/DCSDT_b.jpeg){: style="float: center" width="100%" height ="100%"}
 Varun Rishi, and Edward F. Valeev, “Can the distinguishable cluster approximation be improved systematically by including connected triples?”. 
 [J. Chem. Phys. 151, 064102 (2019)](https://aip.scitation.org/doi/abs/10.1063/1.5097150)
 
 #### 5
-![image](/images/Addition_By_Subtraction.pdf){: style="float: center" width="100%" height ="50%"}
+![image](/images/A_B_S.jpg){: style="float: center" width="100%" height ="50%"}
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “Behind the success of modified coupled-cluster methods: Addition by Subtraction”.
 [Mol. Phys. 117:17, 2201 (2019)](https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1492748)
 
 #### 4
-![image](/images/EOM_DCSD.pdf){: style="float: center" width="100%" height ="50%" }
+![image](/images/DCSD.jpeg){: style="float: center" width="100%" height ="50%" }
 Varun Rishi, Ajith Perera, Marcel Nooijen and Rodney J. Bartlett, “Excited states from modified coupled cluster methods: Are they any better than EOM CCSD?”.
 [J. Chem. Phys. 143, 164103 (2017)](https://aip.scitation.org/doi/abs/10.1063/1.4979078)
 
@@ -67,13 +67,12 @@ Varun Rishi, Ajith Perera and Rodney J. Bartlett, “Assessing the distinguishab
 
 
 #### 2
-![image](/images/EOM-LCC){: style="float: center" width="100%" height ="40%" }
+![image](/images/EOM-LCCSD.jpeg){: style="float: center" width="100%" height ="40%" }
 Jason Byrd, Varun Rishi, Ajith Perera and Rodney J. Bartlett, “Approximating electronically excited states with equation-of-motion linear coupled cluster theory”. 
 [J. Chem. Phys. 143, 164103 (2015)](https://aip.scitation.org/doi/abs/10.1063/1.4934232)
 
 
 #### 1
-![image](/images/TM_paper.pdf){: style="float: center" width="100%" height ="40%" }
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “Transition metal atomic multiplet states through the lens of single reference coupled-cluster and the equation-of-motion coupled-cluster methods”.
 [Theor. Chem. Acc. 133, 1515 (2014)](https://link.springer.com/chapter/10.1007/978-3-662-47051-0_18)
 
