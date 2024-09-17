@@ -61,7 +61,7 @@ Varun Rishi, Ajith Perera, Marcel Nooijen and Rodney J. Bartlett, “Excited sta
 
 
 #### 3
-![image](/images/summaryPic_DCSD.png){: style="float: center" width="65%" height ="30%" }
+![image](/images/DCSD_N2.jpeg){: style="float: center" width="65%" height ="30%" }
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “Assessing the distinguishable cluster approximation based on the triple bond-breaking in the Nitrogen molecule”.
 [J. Chem. Phys. 144, 124117 (2016)](https://aip.scitation.org/doi/abs/10.1063/1.4944087) 
 
