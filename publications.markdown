@@ -52,7 +52,7 @@ Fabijan Pavovsevic, Samuel Slattery, Jinmei Zhang, Nakul Teke, Ashutosh Kumar, C
 
 
 #### 6
-![image](/images/DCSDT_b.jpeg){: style="float: center" width="65%" height ="30%"}
+![image](/images/DCSDT_b.jpg){: style="float: center" width="65%" height ="30%"}
 
 Varun Rishi, and Edward F. Valeev, “Can the distinguishable cluster approximation be improved systematically by including connected triples?”. 
 [J. Chem. Phys. 151, 064102 (2019)](https://aip.scitation.org/doi/abs/10.1063/1.5097150)
