@@ -24,6 +24,7 @@ with Modified Coupled Cluster Models: A Reliable Compromise between Cost and Acc
 #### 10
 ![image](/images/CP_DF_CCSD.gif){: style="float: center" width="65%" height="30%"}
 
+
 Karl Pierce, Varun Rishi and Edward F.Valeev, "Robust approximation of tensor networks: application to grid-free tensor factorization of the Coulomb interaction".
 [J. Chem. Theory Comput. 17, 4, 2217 (2021)](https://doi.org/10.1021/acs.jctc.0c01310)
 
@@ -31,11 +32,13 @@ Karl Pierce, Varun Rishi and Edward F.Valeev, "Robust approximation of tensor ne
 #### 9
 ![image](/images/MassivelyParallel.gif){: style="float: center" width="65%" height="30%"}
 
+
 Justus Calvin, Chong Peng, Varun Rishi, Ashutosh Kumar and Edward F. Valeev, “Many-Body Quantum Chemistry on Massively Parallel Computers”. 
 [Chem. Rev. 121, 3, 1203 (2021)](https://doi.org/10.1021/acs.chemrev.0c00006)
 
 #### 8
 ![image](/images/RPA.jpeg){: style="float: center" width="65%" height="30%"}
+
 
 Varun Rishi, Ajith Perera and Rodney J. Bartlett, “A route to improving RPA excitation energies through its connection to equation-of-motion coupled cluster theory”.
 [J. Chem. Phys. 153, 234101 (2020)](https://aip.scitation.org/doi/10.1063/5.0023862) 
