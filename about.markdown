@@ -11,7 +11,7 @@ I am a postdoctoral researcher at Sandia National Labs working in the area of th
 
 ## Research Themes: 
 
-![image](/images/PastnFutureResearch.png){: style="float: center"}
+![image](/images/ResearchBackground.png){: style="float: center"}
 
 
 # Tracking light-induced chemical transformations at ultrafast timescale
