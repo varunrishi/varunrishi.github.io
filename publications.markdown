@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 ## 12
-![image](/images/DMDS.jpeg){: style="float: center" width="65%" height="30%"}
+![image](/images/DMDS_summary.jpg){: style="float: center" width="65%" height="30%"}
 
 Varun Rishi, Neil Cole-Filipiak, Krupa Ramasesha and Laura M. McCaslin, "Unveiling the UV
 photofragmentation pathways of dimethyl disulfide initiated by a Rydberg excitation".
