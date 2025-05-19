@@ -5,12 +5,21 @@ permalink: /publications/
 ---
 
 
+## 13
+
+![image](/images/INVEST_summary.jpg){: style="float: center" width="65%" height="30%"}
+
+Varun Rishi, Ali Abou Taka, Hrant Hratchian and Laura M.McCaslin, "Quantifying Design Principles for Light-Emitting Materials with Inverted Singlet–Triplet Energy Gaps".
+[J. Phys. Chem. Lett. 16, 5213 (2025) [https://doi.org/10.1021/acs.jpclett.5c00827](https://doi.org/10.1021/acs.jpclett.5c00827)
+
+
+
 ## 12
 ![image](/images/DMDS_summary.jpg){: style="float: center" width="65%" height="30%"}
 
 Varun Rishi, Neil Cole-Filipiak, Krupa Ramasesha and Laura M. McCaslin, "Unveiling the UV
 photofragmentation pathways of dimethyl disulfide initiated by a Rydberg excitation".
-[Phys. Chem. Chem. Phys. (Advance Article)  (2024) https://doi.org/10.1039/D4CP02505A](https://doi.org/10.1039/D4CP02505A)
+[Phys. Chem. Chem. Phys. 6, 23986 (2024) https://doi.org/10.1039/D4CP02505A](https://doi.org/10.1039/D4CP02505A)
 
 
 ## 11
