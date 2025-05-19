@@ -7,7 +7,7 @@ permalink: /publications/
 
 ## 13
 
-![image](/images/INVEST_summary.jpg){: style="float: center" width="65%" height="30%"}
+![image](/images/INVEST_summary.png){: style="float: center" width="65%" height="30%"}
 
 Varun Rishi, Ali Abou Taka, Hrant Hratchian and Laura M.McCaslin, "Quantifying Design Principles for Light-Emitting Materials with Inverted Singlet–Triplet Energy Gaps".
 [J. Phys. Chem. Lett. 16, 5213 (2025) [https://doi.org/10.1021/acs.jpclett.5c00827](https://doi.org/10.1021/acs.jpclett.5c00827)
